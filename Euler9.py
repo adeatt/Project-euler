@@ -1,11 +1,11 @@
-
+import math
 a = 1
 b = 1
 c = 1
 alist = []
 blist = []
 clist = []
-import math
+
 
 while b < 400 :
     c = math.sqrt((a*a) + (b*b))
