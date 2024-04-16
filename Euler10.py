@@ -11,4 +11,4 @@ for num in range(3, 2000001, 2):
         primelist.append(num)       
 
 
-print(sum(primelist))
+print(sum(primelist))             #could take up to 5 minutes or more idk. at least its faster than euler7
