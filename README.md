@@ -1,1 +1,2 @@
-fuck
+these answers are very inefficient i think
+they were done by me...
